@@ -1,0 +1,5 @@
+In Python you can membuat program dengan sintaks yang bersih dan mudah dibaca.
+In Python you can bekerja dengan file, database, dan API dengan mudah.
+In Python you can menggunakan OOP untuk membuat kode yang terstruktur.
+In Python you can memanfaatkan library seperti numpy, pandas, dan matplotlib.
+In Python you can menangani error dengan try-except agar program tidak crash.
